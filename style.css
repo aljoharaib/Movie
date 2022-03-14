@@ -1,0 +1,15 @@
+
+
+ header{
+    display: flex;
+    height: 30em !important;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-size: cover;
+   
+  
+    background-position: center;
+    background-attachment: fixed;
+  } 
